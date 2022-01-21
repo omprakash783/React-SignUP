@@ -1,0 +1,32 @@
+
+.home{
+    background-color: azure;
+    height:90vh;
+}
+
+.component{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    padding-top: 200px;
+}
+
+.link{
+    text-decoration: none;
+    font-weight: bold;
+    border:solid 1px black;
+    color:white;
+    background-color: blue;
+    padding: 5px 10px;
+    margin-top:30px;
+}
+
+.link:hover{
+    background-color: white;
+    color: black;
+}
+

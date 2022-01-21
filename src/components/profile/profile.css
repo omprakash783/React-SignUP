@@ -1,0 +1,26 @@
+.profile-page{
+    height:90vh
+}
+
+.profile{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.h4element{
+    color:skyblue;
+}
+
+h1{
+    color:tomato;
+}
+
+.firsth1{
+    margin-top:60px;
+}
+
+.backbtn{
+    margin-top:80px;
+}
